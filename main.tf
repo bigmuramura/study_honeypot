@@ -1,3 +1,3 @@
 module "vpc" {
-  source = "./vpc"
+  source = "app.terraform.io/bigmuramura/vpc"
 }
